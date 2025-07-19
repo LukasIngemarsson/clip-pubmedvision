@@ -1,6 +1,6 @@
 # Self-Supervised CLIP Fine-Tuning with Medical Image-Text Data
 
-This is a project that was done as part of the course [TDDE09 Natural Language Processing](https://liu-nlp.ai/tdde09/).
+In this project, the objective was to investigate the potential of (medical) image-text data when fine-tuning CLIP for image classification, in absence of labeled data. The project was done as part of the course [TDDE09 Natural Language Processing](https://liu-nlp.ai/tdde09/).
 
 The details of the project and my personal learnings are described in [this short paper](paper.pdf).
 
